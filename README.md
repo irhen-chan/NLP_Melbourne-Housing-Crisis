@@ -4,7 +4,7 @@
 > Natural-language & network exploration of News articles, Policy documents and Reddit threads on the 2025 Melbourne housing crisis.
 
 
-## 📑 Project at a Glance
+## Project at a Glance
 | &nbsp; | Highlights |
 |-------|------------|
 | **Corpus** | 20 public-domain documents across three genres (NEWS 8 📰, POLICY 5 📜, REDDIT 7 💬) |
@@ -13,7 +13,7 @@
 | **Takeaway** | Despite different voices, every stakeholder repeats the same vocabulary—evidence that new ideas, not new words, are needed to solve the crisis. |
 
 
-Reflection
+## Reflection
 “Every dataset tells a story; this one told mine.”
 Building the corpus from scratch (scraping ABC articles, clipping policy PDFs, exporting Reddit threads) taught me that data wrangling is 80 % of analysis. Watching “forever-renters” top every centrality ranking was equal parts validation and frustration—it mirrored my own struggle to crack Melbourne’s market.
 
